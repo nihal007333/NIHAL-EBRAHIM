@@ -3,7 +3,7 @@ This Repository contains practical experiments in Digital Signal Processing Lab
 
 ## Submitted by
 
-David Anil C
+Nihal Ebrahim
 
 ## Table of Contents
 1.Generation of Basic Test Signals
